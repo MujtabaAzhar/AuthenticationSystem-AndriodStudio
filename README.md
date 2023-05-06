@@ -15,3 +15,11 @@ There is one button to register and four Edit Text (Full Name, Email, Password, 
 <b>Login Activity:</b><br>
 	There is one button to login and two Edit Text (Email, Password).<br>
 <b>FIREBASE</b><br>
+![alt firebase](https://github.com/MujtabaAzhar/AuthenticationSystem-AndriodStudio/blob/main/firebase.png) 
+<br><b>Snapshots</b><br>
+![alt pic1](https://github.com/MujtabaAzhar/AuthenticationSystem-AndriodStudio/blob/main/1.png) <br>
+![alt pic1](https://github.com/MujtabaAzhar/AuthenticationSystem-AndriodStudio/blob/main/2.png) <br>
+![alt pic1](https://github.com/MujtabaAzhar/AuthenticationSystem-AndriodStudio/blob/main/3.png) <br>
+![alt pic1](https://github.com/MujtabaAzhar/AuthenticationSystem-AndriodStudio/blob/main/4.png) <br>
+![alt pic1](https://github.com/MujtabaAzhar/AuthenticationSystem-AndriodStudio/blob/main/5.png) <br>
+
