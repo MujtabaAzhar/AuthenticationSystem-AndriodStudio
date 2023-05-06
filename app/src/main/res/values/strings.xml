@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AuthenticationApp</string>
+    <string name="verification_app">Verification App</string>
+    <string name="create_account">Create Account</string>
+    <string name="full_name">Full Name</string>
+    <string name="_203078_app">203078_App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login_here">Already Registered ? Login Here</string>
+    <string name="already_registered_login_here1">already registered ? login here</string>
+    <string name="new_here_create_account">new here ? create account</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">Signup</string>
+    <string name="welcome">Welcome</string>
+    <string name="to_my_first_app">To My First App</string>
+    <string name="_203078">203078</string>
+    <string name="mujtaba_azhar">Mujtaba Azhar</string>
+</resources>
